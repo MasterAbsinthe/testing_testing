@@ -6,3 +6,4 @@ Anyway this is just a test repository for me to get the hang of github
 ## Here is a subheader that I added to a local clone of the repo, so I can learn how to commit and push from my local environment
 
 ### another sub sub sub header, this time to set the git push command to default to origin master
+### In this sub header, I have proven that I can push from my desktop PC
